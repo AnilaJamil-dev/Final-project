@@ -1,7 +1,7 @@
 # METANOIA - MERN Stack
 # Live URL
 https://rich-cyan-grasshopper-tux.cyclic.app/
-Welcome to METANOIA! This project is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. It aims to provide an E-Commerce Website for Premium Watches.
+Welcome to METANOIA! This project is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. It aims to provide an E-Commerce Website for Premium Watches.This was a group project and my other group members are Amna Khubaib and Yusra Imran.
 ## Features
 - **User Registration and Authentication System:** Users can register and log in securely.
 - **Product Browsing:** Browse Watches by their categories, names, descriptions, and prices.
@@ -24,7 +24,7 @@ Welcome to METANOIA! This project is a full-stack application built using the ME
 
 
 ## API Reference
-#### Singup
+#### Signup
 ```http
   POST /api/signup
 ```
